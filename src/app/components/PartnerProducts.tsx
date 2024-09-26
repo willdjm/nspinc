@@ -186,7 +186,7 @@ export function PartnerProducts() {
         }
 
         .custom-swiper-button-next {
-          right: -10px; /* Ajuste a distância da borda direita */
+          right: 50px; /* Ajuste a distância da borda direita */
         }
       `}</style>
     </section>
