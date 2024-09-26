@@ -99,8 +99,8 @@ export function OurVentures() {
                         <h4 className="text-sm font-bold">Nova SP INC.</h4>
                         <picture>
                           <img
-                            src="/icon-empreendimento.webp"
-                            className=""
+                            src="/icon-gif.gif"
+                            className="w-6"
                             alt=""
                           />
                         </picture>

@@ -99,11 +99,11 @@ export function PartnerProducts() {
                         <h4 className="text-sm font-bold">Parcerias</h4>
                         <picture>
                           <img
-                            src="/icon-empreendimento.webp"
-                            className=""
+                            src="/icon-gif.gif"
+                            className="w-6 ml-5"
                             alt=""
                           />
-                        </picture>
+                        </picture>  
                       </div>
                     </div>
 

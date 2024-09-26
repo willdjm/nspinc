@@ -25,14 +25,14 @@ export function Footer() {
 
             {/* Segunda coluna */}
             <ul className='flex flex-col justify-between gap-4'>
-              <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className="">Home</a></li>
-              <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className="">Sobre nós</a></li>
-              <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className="">Empreendimentos</a></li>
-              <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className=" flex items-center"><FaChevronRight className='mr-2' /> NOVA SP INC</a></li>
-              <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className=" flex items-center"><FaChevronRight className='mr-2' /> Parceiros</a></li>
-              <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className="">Blog</a></li>
-              <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className="">Fale Conosco</a></li>
-            </ul>
+                <li className="mb-1 md:text-base"><a href="/" className="">Home</a></li>
+                <li className="mb-1 md:text-base"><a href="#about" className="">Sobre nós</a></li>
+                <li className="mb-1 md:text-base"><p className="">Empreendimentos</p></li>
+                <li className="mb-1 md:text-base"><a href="#empreendimentos" className=" flex items-center"><FaChevronRight className='mr-1' /> NOVA SP INC</a></li>
+                <li className="mb-1 md:text-base"><a href="#parceiros" className=" flex items-center"><FaChevronRight className='mr-1' /> Parceiros</a></li>
+                <li className="mb-1 md:text-base"><a href="#blog" className="">Blog</a></li>
+                <li className="mb-1 md:text-base"><a href="#contato" className="">Fale Conosco</a></li>
+              </ul>
           </div>
 
           {/* Terceira coluna */}
@@ -131,13 +131,13 @@ export function Footer() {
             {/* Segunda coluna */}
             <div className="flex items-star">
               <ul className='flex flex-col justify-between gap-4'>
-                <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className="">Home</a></li>
-                <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className="">Sobre nós</a></li>
-                <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className="">Empreendimentos</a></li>
-                <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className=" flex items-center"><FaChevronRight className='mr-1' /> NOVA SP INC</a></li>
-                <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className=" flex items-center"><FaChevronRight className='mr-1' /> Parceiros</a></li>
-                <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className="">Blog</a></li>
-                <li className="mb-1 md:text-base"><a href="#" target='_blank' rel="noreferrer" className="">Fale Conosco</a></li>
+                <li className="mb-1 md:text-base"><a href="/" className="">Home</a></li>
+                <li className="mb-1 md:text-base"><a href="#about" className="">Sobre nós</a></li>
+                <li className="mb-1 md:text-base"><p className="">Empreendimentos</p></li>
+                <li className="mb-1 md:text-base"><a href="#empreendimentos" className=" flex items-center"><FaChevronRight className='mr-1' /> NOVA SP INC</a></li>
+                <li className="mb-1 md:text-base"><a href="#parceiros" className=" flex items-center"><FaChevronRight className='mr-1' /> Parceiros</a></li>
+                <li className="mb-1 md:text-base"><a href="#blog" className="">Blog</a></li>
+                <li className="mb-1 md:text-base"><a href="#contato" className="">Fale Conosco</a></li>
               </ul>
             </div>
 
