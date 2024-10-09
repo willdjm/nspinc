@@ -13,8 +13,7 @@ export default function Home() {
   return (
     <main>
       <Banner />
-      <OurVentures />
-      <PartnerProducts />
+      <OurVentures title="Nossos Empreendimentos" showNavigation={true} />      <PartnerProducts />
       <About />
       <OurPartners />
       <Blog />

@@ -35,9 +35,9 @@ export function Blog() {
           <h3 className="text-amber-600 text-3xl md:text-5xl font-semibold">
             Blog <span className="text-blue-950 text-base font-bold md:text-4xl uppercase">NOVA SP INC</span>
           </h3>
-          <button className="bg-amber-600 text-white py-1 px-6 rounded-lg hidden md:flex">
+          <a href="#" className="bg-amber-600 text-white py-1 px-6 rounded-lg hidden md:flex">
             Acesse o Blog
-          </button>
+          </a>
         </div>
 
         {/* Container para cards no desktop */}
